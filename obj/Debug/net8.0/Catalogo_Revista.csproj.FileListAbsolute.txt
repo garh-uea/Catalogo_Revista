@@ -1,0 +1,15 @@
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\bin\Debug\net8.0\Catalogo_Revista.exe
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\bin\Debug\net8.0\Catalogo_Revista.deps.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\bin\Debug\net8.0\Catalogo_Revista.runtimeconfig.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\bin\Debug\net8.0\Catalogo_Revista.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\bin\Debug\net8.0\Catalogo_Revista.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.AssemblyInfoInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.AssemblyInfo.cs
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.csproj.CoreCompileInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.sourcelink.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\refint\Catalogo_Revista.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\Catalogo_Revista.genruntimeconfig.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Semana 13\Catalogo_Revista\obj\Debug\net8.0\ref\Catalogo_Revista.dll
